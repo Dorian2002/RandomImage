@@ -31,7 +31,6 @@ D:\NFTProject\RandomImage256\RandomImage256\ImageRandom256\ImageRandom256\obj\De
 D:\RandomImage\RandomImage256\ImageRandom256\ImageRandom256\bin\Debug\ImageRandom256.exe.config
 D:\RandomImage\RandomImage256\ImageRandom256\ImageRandom256\bin\Debug\ImageRandom256.exe
 D:\RandomImage\RandomImage256\ImageRandom256\ImageRandom256\bin\Debug\ImageRandom256.pdb
-D:\RandomImage\RandomImage256\ImageRandom256\ImageRandom256\obj\Debug\ImageRandom256.csproj.AssemblyReference.cache
 D:\RandomImage\RandomImage256\ImageRandom256\ImageRandom256\obj\Debug\ImageRandom256.Imager.resources
 D:\RandomImage\RandomImage256\ImageRandom256\ImageRandom256\obj\Debug\ImageRandom256.Properties.Resources.resources
 D:\RandomImage\RandomImage256\ImageRandom256\ImageRandom256\obj\Debug\ImageRandom256.csproj.GenerateResource.cache

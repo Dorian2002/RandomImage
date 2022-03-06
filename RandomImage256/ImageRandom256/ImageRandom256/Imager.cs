@@ -78,9 +78,9 @@ namespace ImageRandom256
             float x, y;
             if (e.Button == MouseButtons.Right)
             {
-                x = (e.X) / (900 / canvasWidth);
+                x = (e.X) / (1080 / canvasWidth);
                 x = (float)Math.Floor(x);
-                y = (e.Y) / (900 / canvasWidth);
+                y = (e.Y) / (1080 / canvasWidth);
                 y = (float)Math.Floor(y);
                 if (canvasBitmap.GetPixel((int)(x) * (1080 / canvasWidth), (int)(y) * (1080 / canvasWidth)).Name == "ff000000")
                 {
