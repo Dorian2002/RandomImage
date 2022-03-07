@@ -2,7 +2,7 @@
 
 This personnal project is a simple software developped with .Net and Winform. Free to use and edit. 
 
-The goal was to make a tool that generates an image from a color table on which you can draw.
+The goal was to make a tool that generates an image from a color table. Also a system to draw on the image.
 
 To install the project, just download the repository and use the .exe in the folder.
 
