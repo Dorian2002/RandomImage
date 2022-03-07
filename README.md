@@ -7,7 +7,7 @@ The goal was to make a tool that generates an image from a color table on which 
 To install the project, just download the repository and use the .exe in the folder.
 
 To use : 
-* 2 generating buttons, one with all color an other with only the light colors of the first one.
+* 2 generating buttons, one with all color and an other with only the light colors of the first one.
 * 2 counter, the first for the height of the image, the second for the width.
 * A save button with a path enter and a file name enter. If u let the path and file name blank, a ``.png`` file will be created a the root of the disk.
 * Right click on the image to change the current color of the pixel by a black pixel.
