@@ -1,7 +1,7 @@
 # RandomImage
 
-This personnal project is a simple software developped with .Net and Winform. Only free to use, not to edit. 
-Check on Behance : https://www.behance.net/gallery/139513291/RandomImage
+This personnal project is a simple software developped with .Net and Winform. Only free to use, not to edit.
+ \n Check on Behance : https://www.behance.net/gallery/139513291/RandomImage
 
 The goal was to make a tool that generates an image from a color table. Also a system to draw on the image.
 
