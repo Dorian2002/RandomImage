@@ -1,6 +1,6 @@
 # RandomImage
 
-This personnal project is a simple software developped with .Net and Winform. Free to use and edit. 
+This personnal project is a simple software developped with .Net and Winform. Only free to use, not to edit. 
 
 The goal was to make a tool that generates an image from a color table. Also a system to draw on the image.
 
